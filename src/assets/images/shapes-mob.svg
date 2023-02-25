@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="444.666" height="825.781" viewBox="0 0 444.666 825.781">
+  <g id="Group_3737" data-name="Group 3737" transform="translate(98.984 -60.364)">
+    <g id="Group_3551" data-name="Group 3551" transform="translate(-98.984 55.122)">
+      <g id="Ellipse_14" data-name="Ellipse 14" transform="translate(30.391 756.901) rotate(18)" fill="none" stroke="#fae0d2" stroke-width="3">
+        <circle cx="29.413" cy="29.413" r="29.413" stroke="none"/>
+        <circle cx="29.413" cy="29.413" r="27.913" fill="none"/>
+      </g>
+      <g id="Ellipse_15" data-name="Ellipse 15" transform="translate(0 124.865)" fill="none" stroke="#fae0d2" stroke-width="3">
+        <circle cx="43.477" cy="43.477" r="43.477" stroke="none"/>
+        <circle cx="43.477" cy="43.477" r="41.977" fill="none"/>
+      </g>
+      <g id="Polygon_3" data-name="Polygon 3" transform="translate(360.002 2.342)">
+        <path id="Path_1701" data-name="Path 1701" d="M25.536,8.875a6,6,0,0,1,10.363,0L56.166,43.587a6,6,0,0,1-5.182,9.025H10.451a6,6,0,0,1-5.182-9.025Z" fill="none"/>
+        <path id="Path_1702" data-name="Path 1702" d="M30.718,5.9a5.945,5.945,0,0,0-5.182,2.975L5.269,43.587a6,6,0,0,0,5.182,9.025H50.985a6,6,0,0,0,5.181-9.025L35.9,8.875A5.945,5.945,0,0,0,30.718,5.9m0-3A8.914,8.914,0,0,1,38.49,7.362L58.757,42.075a8.988,8.988,0,0,1-7.772,13.538H10.451A8.988,8.988,0,0,1,2.679,42.075L22.946,7.362A8.914,8.914,0,0,1,30.718,2.9Z" fill="#d2defd"/>
+      </g>
+      <g id="Rectangle_2381" data-name="Rectangle 2381" transform="translate(397.21 85.908)" fill="none" stroke="#ffd3f3" stroke-width="3">
+        <rect width="44.456" height="43.956" rx="6" stroke="none"/>
+        <rect x="-1.5" y="-1.5" width="47.456" height="46.956" rx="7.5" fill="none"/>
+      </g>
+      <path id="Icon_ionic-md-add" data-name="Icon ionic-md-add" d="M17.395,12.782H12.782v4.613H11.363V12.782H6.75V11.363h4.613V6.75h1.419v4.613h4.613Z" transform="translate(116.133 27.132)" fill="#ffd3f3"/>
+      <path id="Icon_ionic-md-add-2" data-name="Icon ionic-md-add" d="M17.395,12.782H12.782v4.613H11.363V12.782H6.75V11.363h4.613V6.75h1.419v4.613h4.613Z" transform="translate(97.133 179.132)" fill="#ffd3f3"/>
+      <path id="Icon_ionic-md-add-3" data-name="Icon ionic-md-add" d="M17.395,12.782H12.782v4.613H11.363V12.782H6.75V11.363h4.613V6.75h1.419v4.613h4.613Z" transform="translate(86.488 758.132)" fill="#ffd3f3"/>
+      <path id="Icon_ionic-md-add-4" data-name="Icon ionic-md-add" d="M17.395,12.782H12.782v4.613H11.363V12.782H6.75V11.363h4.613V6.75h1.419v4.613h4.613Z" transform="translate(370.133 205.132)" fill="#ffd3f3"/>
+      <path id="Icon_ionic-md-add-5" data-name="Icon ionic-md-add" d="M17.395,12.782H12.782v4.613H11.363V12.782H6.75V11.363h4.613V6.75h1.419v4.613h4.613Z" transform="translate(330.133 80.132)" fill="#ffd3f3"/>
+      <path id="Icon_ionic-md-add-6" data-name="Icon ionic-md-add" d="M17.395,12.782H12.782v4.613H11.363V12.782H6.75V11.363h4.613V6.75h1.419v4.613h4.613Z" transform="translate(121.605 813.628)" fill="#ffd3f3"/>
+    </g>
+  </g>
+</svg>
